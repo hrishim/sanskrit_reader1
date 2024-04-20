@@ -1,0 +1,9 @@
+[book]
+authors = ["hrishim"]
+language = "en"
+multilingual = false
+src = "src"
+title = "संस्कृतप्रथमादर्शः Reader - I"
+
+[build]
+build-dir = "docs"
