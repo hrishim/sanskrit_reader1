@@ -5,7 +5,7 @@ R. S. Vadhyar & Sons published a set of introductory Sanskrit books for young st
 These are my notes from reading the book. It includes some of the short stories in the book along with translation done by me. I have tried my best to check for errors but I can't guarantee there are none.
 
 
-Back to [My Sanskrit Notes](https://hrishim.github.io/UnofficialKey_SanskritPrimer_MadhavDeshpande/)
+Back to [My Sanskrit Notes](https://hrishim.github.io/sanskrit_notes/)
 
 
 ![Reader 1 Front Cover](./images/Reader1.jpg)
