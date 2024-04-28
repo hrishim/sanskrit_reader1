@@ -15,6 +15,7 @@
   - [Lesson 12: वानरक्रीडा](./reader1/r1l12.md)
   - [Lesson 13: मयूरः](./reader1/r1l13.md)
   - [Lesson 14: मृगाणां पक्षिणां च समयः](./reader1/r1l14.md)
+  - [Lesson 15: प्रश्नोत्तरमाला](./reader1/r1l15.md)
   - [Lesson 16: शुकः](./reader1/r1l16.md)
   - [Lesson 17: उल्लूखलं मर्दलश्च](./reader1/r1l17.md)
   - [Lesson 18: गजः](./reader1/r1l18.md)
